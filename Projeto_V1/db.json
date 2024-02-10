@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "E-mail": "lucaspsantos003@gmail.com",
+      "Senha": "323",
+      "Verificação de Senha": "2424",
+      "FeedBack": "",
+      "id": 2
+    },
+    {
+      "E-mail": "lucaspsantos003@gmail.com",
+      "Senha": "lag123",
+      "Verificação de Senha": "lag123",
+      "FeedBack": "Ótimo Site, amei",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

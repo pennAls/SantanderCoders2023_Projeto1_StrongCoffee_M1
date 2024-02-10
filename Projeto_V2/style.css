@@ -1,0 +1,340 @@
+:root {
+  font-size: 62.5%;
+  /*Respeita a acessibilidade, a mudança de tamanho pelo navegador. Em vez de definir os textos em pixels e %, usa-se "rem"*/
+}
+
+* {
+  margin: 0%;
+  /* Tiram as Margens */
+  padding: 0%;
+  box-sizing: border-box;
+  /* Evita uma brusca modificação do bloco pelo padding*/
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.head1 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: "Emilys Candy", serif;
+  font-size: 3rem;
+  background-color: burlywood;
+}
+.legenda {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  background-color: burlywood;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  font-family: "Emilys Candy", serif;
+  font-size: 3rem;
+  background-color: burlywood;
+}
+
+.cafe {
+  /*Logo da Strong Coffe*/
+  width: 10rem;
+  padding-top: 1rem;
+}
+
+nav,
+ul,
+li {
+  display: flex;
+  color: #ffffff;
+  background-color: brown;
+  color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  height: auto;
+  font-family: "Emilys Candy", serif;
+  font-size: 3rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+nav ul li a:hover {
+  background-color: white;
+  color: brown;
+  transform: scale(1.1);
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  border-bottom: 1.8px solid black;
+}
+
+figcaption {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  font-size: 2rem;
+  border-radius: 10px;
+  background-image: url(https://img.freepik.com/fotos-premium/graos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  font-family: "Emilys Candy", serif;
+  font-weight: bolder;
+}
+
+figure img {
+  display: flex;
+  border-radius: 1rem;
+}
+
+.cardapio {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.figurebox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(245, 242, 242);
+  width: 20%;
+  border-radius: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  font-family: "Emilys Candy", serif;
+  font-size: 4rem;
+  color: black;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+main {
+  background-color: burlywood;
+}
+
+.figurebox:hover {
+  background-color: brown;
+}
+/*Section da tabela de eventos*/
+
+.eventos {
+  font-family: "Emilys Candy", serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-image: url(https://img.freepik.com/fotos-premium/graos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  background-size: cover;
+}
+
+.event {
+  /*Texto Eventos Semanais*/
+  font-family: "Emilys Candy", serif;
+  background-color: burlywood;
+  color: black;
+}
+
+table {
+  background-image: url(https://img.freepik.com/fotos-premium/graos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 2rem;
+  font-family: "Emilys Candy", serif;
+  color: rgb(255, 255, 255);
+}
+
+td,
+th {
+  padding: 1px;
+  align-items: center;
+  text-align: center;
+}
+
+td {
+  color: black;
+}
+
+td:hover {
+  background-color: white;
+  color: brown;
+}
+
+/* Parte da História do Café */
+
+.cafe1 {
+  /*Imagem da sessão de história*/
+  width: auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.Hcoffee {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  color: white;
+  font-family: "Emilys Candy", serif;
+  font-size: 4rem;
+  justify-content: center;
+}
+
+.box {
+  /*Box que fica a imagem da história do café*/
+  justify-content: center;
+  display: flex;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  align-items: center;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.box1 {
+  display: flex;
+  flex-wrap: wrap;
+  color: rgb(255, 255, 255);
+  background-color: brown;
+  background-color: burlywood;
+  height: 46rem;
+  overflow: auto;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+.history {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  text-align: justify;
+  padding: 2rem;
+  text-indent: 1rem;
+}
+
+.historia {
+  background-image: url(https://thecoffeestore.co.nz/cdn/shop/files/Slider_1000x1000.jpg?v=1620859362);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Parte do Formulário de Novidades */
+
+.form {
+  align-items: center;
+  text-align: center;
+  background-color: burlywood;
+}
+
+.subs {
+  font-family: "Emilys Candy", serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  background-color: burlywood;
+  padding-top: 5rem;
+  color: black;
+}
+
+label {
+  font-family: "Emilys Candy", serif;
+  text-align: center;
+  font-size: 4rem;
+  background-color: burlywood;
+  color: black;
+}
+
+input {
+  display: flex;
+  margin: auto;
+  background-image: url(https://img.freepik.com/fotos-premiumgraos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  width: 50rem;
+  height: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  border-radius: 1rem;
+  overflow: auto;
+}
+
+input::placeholder {
+  text-align: center;
+  font-family: "Emilys Candy", serif;
+  font-size: 2rem;
+  color: black;
+  align-items: center;
+  padding: 1px;
+}
+
+textarea {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  background-image: url(https://img.freepik.com/fotos-premium/graos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  border-radius: 0.5rem;
+  border-color: black;
+  border: 0.5rem solid;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 2rem;
+}
+
+textarea::placeholder {
+  text-align: center;
+  font-family: "Emilys Candy", serif;
+  font-size: 3rem;
+  color: black;
+  align-items: center;
+  padding: 1px;
+}
+
+.box3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  color: rgb(255, 255, 255);
+  background-color: brown;
+  background-color: burlywood;
+  height: auto;
+}
+
+button {
+  background-image: url(https://img.freepik.com/fotos-premium/graos-de-cafe-em-fundo-marrom-vista-do-topo_106006-6352.jpg);
+  width: 30rem;
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: bolder;
+  font-family: "Emilys Candy", serif;
+}
+/* Parte do footer */
+
+footer {
+  background-color: brown;
+  color: #000000;
+  text-align: center;
+  width: 100%;
+  font-size: 3rem;
+  align-items: center;
+  overflow: auto;
+}
