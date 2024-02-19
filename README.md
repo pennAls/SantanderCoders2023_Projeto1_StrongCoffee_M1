@@ -1,9 +1,7 @@
 /*
 #StrongCoffee
-O StrongCoffee foi um projeto idealizado como forma de avaliação para o projeto SantanderCoders_2023, módulo 1, HTML e CSS.
 
-
-<h1 align="center">📝 Projeto para aula de HTML Estático: Tags Semânticas </h1>
+<h1 align="center">📝Projeto idealizado como forma de avaliação para o projeto SantanderCoders_2023, Módulo 1, HTML e CSS.  </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-green" alt="badge de versão do projeto"/>
 </p>
@@ -38,7 +36,7 @@ Com o aprendizado contínuo e aprimoramento das habilidades, apresentamos com or
   
 #### Veja o projeto em execução 
 
-  <a href="https://leticiavargas.github.io/PlayStore/" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/Acessar%20Projeto%20-%20web-green">
   </a>
 
@@ -66,17 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este é um projeto que utiliza <kbd>HTML5<kbd> e <kbd>CSS<kbd>, sendo possivel executar o projeto clonando o projeto e abrindo em qualquer navegador.
 
 
-## 💻 Desenvolvedora
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/pennAls">
-      <img style="border-radius: 50%;" src="https://pt.gravatar.com/userimage/186334662/ec308d4832e83fdc97fbb724d6f69a70.jpg" width="100px;" alt="Foto Letícia Vargas"/>
-      <br />
-      <sub><b>Lucas Pena</b></sub></a><br /> 
-    </td>
-  </tr>
-</table>
-
+## 💻 Desenvolvedor:
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucaspenals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucaspenals/" height="30" width="40" /></a>
