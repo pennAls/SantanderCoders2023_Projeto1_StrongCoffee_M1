@@ -18,9 +18,9 @@
 ## 📋 Sobre o projeto
 
 <p align="justify">
- Bem-vindo ao StrongCoffee, o seu destino online para os amantes do café! Este projeto foi concebido com o objetivo de proporcionar uma experiência de compra premium para os aficionados por café em todo o mundo.</br>
-  O desafio lançado foi o desenvolvimento de uma página que contenha uma série de tags HTML semânticas mas que não seja utilizado
-  Flexbox ou Grid para posicionamento em tela. </br>
+Bem-vindo ao StrongCoffee, o seu destino online para os amantes do café! Este projeto foi concebido com o objetivo de proporcionar uma experiência de compra premium para os aficionados por café em todo o mundo.</br>
+O desafio lançado foi o desenvolvimento de uma página que contenha uma série de tags HTML semânticas mas que não seja utilizado
+Flexbox ou Grid para posicionamento em tela. </br>
   
 Versão 1 e Versão 2
 
