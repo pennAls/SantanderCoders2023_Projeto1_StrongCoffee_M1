@@ -1,4 +1,4 @@
-#StrongCoffee
+# StrongCoffee
 
 <h1 align="center">📝Projeto idealizado como forma de avaliação para o projeto SantanderCoders_2023, Módulo 1, HTML e CSS.  </h1>
 <p align="center">
@@ -45,9 +45,6 @@ Com o aprendizado contínuo e aprimoramento das habilidades, apresentamos com or
 - [x] Formlário de cadastro (não precisa ser funcional)
 - [x] Header e Footer com navegação
 - [x] Galeria com uso das tags `<figure>` e `<figurecaption>`
-
-#### TO-DO
-- [ ] Adicionar tabela
 
 
 ## 🕹 Tecnologias
