@@ -1,10 +1,6 @@
 # StrongCoffee
 
 <h1 align="center">📝Projeto idealizado como forma de avaliação para o projeto SantanderCoders_2023, Módulo 1, HTML e CSS.  </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-green" alt="badge de versão do projeto"/>
-</p>
-
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
