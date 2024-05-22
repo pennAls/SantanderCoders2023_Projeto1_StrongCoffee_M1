@@ -29,11 +29,7 @@ Com o aprendizado contínuo e aprimoramento das habilidades, apresentamos com or
 
 ## 🎬 Demo do projeto
   
-#### Veja o projeto em execução 
-
-  <a href="">
-    <img src="https://img.shields.io/badge/Acessar%20Projeto%20-%20web-green">
-  </a>
+![FireShot Capture 001 - StrongCoffee - ](https://github.com/pennAls/SantanderCoders2023_Projeto1_StrongCoffee_M1/assets/143518683/1f58a7d3-e552-433f-8cf0-3bc3ab23a2df)
 
 ## ⚙ Requisitos
 - [x] Uso de tags semânticas
